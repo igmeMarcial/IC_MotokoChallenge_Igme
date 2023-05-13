@@ -1,8 +1,24 @@
 {
-   "canisters": {
+  "canisters": {
     "calculator": {
-    "main": "main.mo",
-    "type": "motoko"
+      "main": "main.mo",
+      "type": "motoko"
+    },
+    "diary": {
+      "main": "homeworkDiary.mo",
+      "type": "motoko"
+    },
+    "wall": {
+      "main": "theStudentsWall.mo",
+      "type": "motoko"
+    },
+    "coin": {
+      "main": "coin.mo",
+      "type": "motoko"
+    },
+    "Verifier": {
+      "main": "./Verificador/main.mo",
+      "type": "motoko"
+    }
   }
- }
 }

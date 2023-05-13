@@ -1,5 +1,17 @@
 {
+  "Verifier": {
+    "ic": "dhyvq-uaaaa-aaaan-qdryq-cai"
+  },
   "calculator": {
     "ic": "p7jvx-2qaaa-aaaan-qdqxq-cai"
+  },
+  "coin": {
+    "ic": "dazte-zyaaa-aaaan-qdrya-cai"
+  },
+  "diary": {
+    "ic": "gsaej-jaaaa-aaaan-qdrgq-cai"
+  },
+  "wall": {
+    "ic": "fqvzw-zqaaa-aaaan-qdrnq-cai"
   }
 }
